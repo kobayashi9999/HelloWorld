@@ -297,6 +297,7 @@
 				FA7D7C531E2EC2650028D263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
